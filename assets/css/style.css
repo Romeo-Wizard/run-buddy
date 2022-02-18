@@ -109,4 +109,8 @@ section {
     width: 100%;
     margin-bottom: 15px;
 }
+
+.hero-form label {
+    margin: 0 5px;
+}
 /* Hero form Style End */
