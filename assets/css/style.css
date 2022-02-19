@@ -123,12 +123,13 @@ section {
 }
 /* Hero form Style End */
 
-/* What We Do Style */
+/* What We Do Style Start */
 .intro {
     text-align: center;
 }
 
 .intro h2{
+    display: inline-block;
     font-size: 55px;
     color: #024e76;
     margin-bottom: 35px;
@@ -136,3 +137,12 @@ section {
     border-bottom: 3px solid;
     border-color: #fce138;
 }
+
+.intro p {
+    line-height: 1.7;
+    color: #39a6b2;
+    width: 80%;
+    font-size: 20px;
+    margin: 0 auto;
+}
+/* What We Do Style End */
