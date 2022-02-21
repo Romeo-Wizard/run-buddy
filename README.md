@@ -11,4 +11,7 @@ A website that offers fitness training services.
 https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Douglas Stemple
+Made with ❤️ by Romeo-Wizard
+
+
+### ©2019 Run Buddy, Inc
