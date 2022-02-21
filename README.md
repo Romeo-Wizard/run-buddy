@@ -14,4 +14,4 @@ https://lernantino.github.io/run-buddy/
 Made with ❤️ by Romeo-Wizard
 
 
-# Run Buddy Inc.
+### ©2019 Run Buddy, Inc
